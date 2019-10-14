@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2763132-82d8-4fdb-865e-7cb4e4a13a8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/api/yelp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RestaurantDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RestaurantsList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useRestaurants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/RestaurantsShowScreen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screen/SearchScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screen/SearchScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RestaurantDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RestaurantDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RestaurantsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RestaurantsList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screen/SearchScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/SearchScreen.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570981430251</updated>
       <workItem from="1570981431420" duration="16886000" />
-      <workItem from="1571051095710" duration="4368000" />
+      <workItem from="1571051095710" duration="7760000" />
     </task>
     <servers />
   </component>

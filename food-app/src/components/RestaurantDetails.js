@@ -3,7 +3,7 @@ import {View, Text, Image, StyleSheet} from 'react-native';
 
 const RestaurantDetails = ({restaurant}) => {
     return(
-        <View>
+        <View style={styles.viewStyle}>
             <Image
                 style={styles.imageStyle}
                 source={{uri: restaurant.image_url}}
@@ -15,11 +15,13 @@ const RestaurantDetails = ({restaurant}) => {
 };
 
 const styles = StyleSheet.create({
+    viewStyle: {
+        marginLeft: 15
+    },
     imageStyle: {
         width: 250,
         height: 120,
-        borderRadius: 4,
-        marginRight: 10
+        borderRadius: 4
     },
     nameStyle: {
         fontWeight: 'bold',
